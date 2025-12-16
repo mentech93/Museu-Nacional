@@ -2,7 +2,7 @@
 
 Este projeto é um site institucional do **Museu Nacional**, desenvolvido com **HTML5, CSS3, JavaScript e Bootstrap 4**, com foco em **layout responsivo**, organização de arquivos e boas práticas de front-end.
 
-🔗 **Projeto online (GitHub Pages):** https://mentech93.github.io/Museu-Nacional/  
+🔗 **Projeto online (GitHub Pages):** [Clique aqui para ver o site](https://mentech93.github.io/Museu-Nacional/)  
 🔗 **Repositório no GitHub:** [Museu Nacional](https://github.com/mentech93/Museu-Nacional)
 
 ---
